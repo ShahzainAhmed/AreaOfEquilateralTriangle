@@ -1,1 +1,1 @@
-# Area of Equilate
+# Area of Equilateral
