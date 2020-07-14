@@ -1,1 +1,1 @@
-# Area of Equilateral
+# Area of Equilateral Triangle in Java.
