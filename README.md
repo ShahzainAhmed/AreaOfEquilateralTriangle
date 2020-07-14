@@ -1,1 +1,1 @@
-# Area of Eq
+# Area of Equi
